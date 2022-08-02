@@ -2,7 +2,7 @@
 
 Link: [Progressive Timer](https://murillocosta.github.io/progressive-timer/)
 
-For the execution of this project were used: HTML, CSS and JavaScript.
+For the development of this project were used: HTML, CSS and JavaScript.
 
 The timer counts from zero, advancing second by second.
 It's possible to pause and continue, and also reset the timer.
